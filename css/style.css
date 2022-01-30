@@ -1,0 +1,138 @@
+body{
+    color:black;
+}
+
+.box-1{
+    min-width: 100%;
+    padding: 10px;
+    background-color: wheat;
+    margin: 0em;
+    margin-left: 0em;
+}
+
+.box-1 h1{
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.button{
+    padding:2px;
+    background-color:grey;
+    color: white;
+    text-decoration: none;
+    border: white 1px solid;
+}
+
+.box-2{
+    padding: 10px;
+    margin: 10px 0;
+    background-color:white;
+}    
+
+.box-2 h2{
+    text-transform: uppercase;
+}
+
+.box-3{
+    margin: 10px 0;
+    padding: 10px;
+    border: grey 10px solid;
+    background-image: url('../images/qwerty.jpeg');
+    background-repeat: no-repeat;
+    background-position: top;
+    color: honeydew;
+    height: 220px;
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+}
+
+.box-3 h3{
+    font-weight:1000;
+}
+
+
+
+.box-4{
+    float: right;
+    width: 50%;
+    box-sizing: border-box;
+    margin: 10px 0;
+    padding: 10px;
+    border: grey 10px solid;
+    height: 220px;
+    background-image: url('../images/download.jpg');
+    background-repeat: no-repeat;
+    background-position: right;
+    color: honeydew;
+}
+
+.box-5{
+    float: right;
+    width: 50%;
+    box-sizing: border-box;
+    margin: 10px 0;
+    padding: 10px;
+    border: grey 10px solid;
+    height: 220px;
+    color: honeydew;
+    background-image: url('../images/bharathi.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.box-5 h5{
+    font-weight: bolder;
+}
+
+.box-6{
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+    margin: 10px 0;
+    padding: 10px;
+    border: grey 10px solid;
+    height: 220px;
+    color: honeydew;
+    background-image:url('../images/bhargavi.jpg') ;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.box-6 h6{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+}
+
+.container{
+    text-align: center;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.hello{
+    background-color: rgb(72, 164, 226);
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 0cm;
+    color: white;
+}
+
+.dance{
+    text-decoration: none;
+    color:black;
+}
+
+.footer{
+    background-color: rgb(24, 2, 2);
+    margin-top: 0;
+    color: white;
+}
+
+
+
+
+
+
